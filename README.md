@@ -1,2 +1,2 @@
 # Bash-Scripting
-This is a Bash Shell Script Language
+This is a Bash Shell Script Language Repo
