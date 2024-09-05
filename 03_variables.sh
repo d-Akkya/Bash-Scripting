@@ -6,3 +6,7 @@ age=22
 
 echo "My name is $name and age is $age."
 
+name='Akhilesh'
+
+echo "My name is $name"
+
