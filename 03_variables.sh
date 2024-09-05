@@ -19,6 +19,5 @@ echo "Name of this machine is $HOSTNAME"
 readonly College="PVPIT"
 echo "My College name is $College"
 
-College="AITRC"     #shows error
+College="AITRC"     #shows: error
 echo $College
-
