@@ -10,3 +10,6 @@ echo "Lowercase will ----- ${myVar,,}"
 #To replace a string
 newVar=${myVar/Buddy/Akkya}
 echo "New string is --- $newVar"
+
+#To slice a string
+echo "After slice ${newVar:4:5}"
