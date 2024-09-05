@@ -13,3 +13,7 @@ echo "No. of values, length of an array is ${#myArray[*]}"
 echo "Values from index 2 are ${myArray[*]:2}"         #Here 2 after : is starting index / values will start from index 2
 echo "Values from index 2-3 are ${myArray[*]:2:2}"     #Here 2 after starting index is no. values we want including the value of starting index
 
+#Updating our array with new values
+myArray+=(New 5 6)
+echo "Values of new array are ${myArray[*]}"
+
