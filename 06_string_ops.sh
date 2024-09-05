@@ -6,3 +6,7 @@ echo "Length of myVar is $myVarLength"
 
 echo "Uppercase will ----- ${myVar^^}"
 echo "Lowercase will ----- ${myVar,,}"
+
+#To replace a string
+newVar=${myVar/Buddy/Akkya}
+echo "New string is --- $newVar"
