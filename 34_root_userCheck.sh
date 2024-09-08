@@ -8,3 +8,4 @@ then
 else
 	echo "User is not root"
 fi
+
