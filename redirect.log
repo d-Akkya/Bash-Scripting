@@ -1,11 +1,11 @@
 
 Pinging www.google.com [2404:6800:4007:808::2004] with 32 bytes of data:
-Reply from 2404:6800:4007:808::2004: time=237ms 
-Reply from 2404:6800:4007:808::2004: time=143ms 
-Reply from 2404:6800:4007:808::2004: time=159ms 
-Reply from 2404:6800:4007:808::2004: time=178ms 
+Reply from 2404:6800:4007:808::2004: time=80ms 
+Reply from 2404:6800:4007:808::2004: time=71ms 
+Reply from 2404:6800:4007:808::2004: time=77ms 
+Reply from 2404:6800:4007:808::2004: time=102ms 
 
 Ping statistics for 2404:6800:4007:808::2004:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 143ms, Maximum = 237ms, Average = 179ms
+    Minimum = 71ms, Maximum = 102ms, Average = 82ms
